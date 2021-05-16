@@ -1,0 +1,28 @@
+\{text "Group"}Game Design    Programming    Modeling & Animation
+\{text "Name"}Tomer Lustig
+
+
+\{text "Group"}Game Testing
+\{text "Name"}Tester 1|Tester 2
+Tester 3|Tester 4
+
+
+\{text "Group"}Sound
+\{text "Name"}Tron: Legacy Soundtrack
+
+
+\{text "Group"}Assets Used
+\{text "Name"}Skull Platform|Rigged Skeleton
+Sci Fi Pixel Art|Energy RifleBlade
+Orbital Beam Laser|Awesome Effects
+Decrepit Dungeon LITE|Cyberpunk FX explosions
+Old Radio "Ocean"|Old "USSR" Lamp
+
+
+
+
+
+
+
+
+\{text "Name"}Thank you for playing :)
